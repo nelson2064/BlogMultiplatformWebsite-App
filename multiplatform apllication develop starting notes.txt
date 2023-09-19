@@ -1,0 +1,32 @@
+kotlin multiplatform = https://kotlinlang.org/docs/multiplatform-dsl-reference.html
+
+kobweb = https://kobweb.varabyte.com/
+
+kobweb github = https://github.com/varabyte/kobweb
+
+Download the Kobweb binary
+
+setu up the environement variable
+
+Download a JDK
+
+Update your JAVA_HOME variable to point at it.
+
+JAVA_HOME=/path/to/jdks/corretto-11.0.12
+
+# ... or whatever version or path you chose
+
+
+
+
+
+
+check java version : java --version
+
+check kobweb version : kobweb -v
+
+cmd : kobweb create
+
+select the tempelate  i will select empty
+
+kobweb run
